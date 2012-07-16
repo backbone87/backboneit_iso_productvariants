@@ -1,0 +1,21 @@
+=== Titel
+
+
+
+=== Suchbegriffe
+
+
+
+=== Teaser
+
+
+
+=== Beschreibung
+<p></p>
+
+
+=== Freigabe-Notizen und Änderungs-Log
+<p>siehe Handbuch-Link</p>
+
+=== Handbuch-Link
+https://github.com/backbone87/backboneit_iso_productvariants
