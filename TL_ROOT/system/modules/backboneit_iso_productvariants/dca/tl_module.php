@@ -7,7 +7,7 @@ $GLOBALS['TL_DCA']['tl_module']['palettes']['bbit_iso_prodvars']
 	. ',iso_listingSortDirection'
 	. ';{redirect_legend},iso_addProductJumpTo'
 // 	. ';{reference_legend:hide},defineRoot'
-	. ';{template_legend:hide},iso_list_layout,iso_use_quantity'
+	. ';{template_legend:hide},iso_list_layout,iso_use_quantity,iso_list_layoutPerType'
 	. ',iso_includeMessages,iso_emptyMessage,iso_buttons'
 	. ';{protected_legend:hide},protected'
 	. ';{expert_legend:hide},guests,cssID,space';
